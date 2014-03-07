@@ -1,4 +1,4 @@
 RegExpBuilderJava
 =================
 
-A Java library for building RegExpPattrerns
+A Java library for building RegExpPatterns (port of abergs/RegExpBuilder)
